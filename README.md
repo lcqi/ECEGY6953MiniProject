@@ -1,7 +1,8 @@
 # ECEGY6953MiniProject
 Results of the mini project.
 
-The best model is in the best.ipynb.
+Some attempts in /results.
 
-Several other results in /results.
+Best model with 95.18% accuracy in best.ipynb.
 
+A shallower model with 94.49% accuracy in \results\batchsizes.ipynb.
