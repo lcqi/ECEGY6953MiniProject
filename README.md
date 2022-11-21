@@ -7,7 +7,7 @@ A shallower model with 94.49% accuracy in /results/batchsizes.ipynb.
 
 Figure 3: /results/learningrates.ipynb.
 
-Figure 5: /results/batchsizes.ipynb.
+Figure 5: /results/fig5_batch32.ipynb /results/fig5_batch128.ipynb /results/fig5_batch256.ipynb and /results/learningrates.ipynb
 
 Figure 6: /results/batchsizes.ipynb and /results/batchsize64lr0.02.ipynb
 
